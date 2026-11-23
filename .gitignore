@@ -1,0 +1,4 @@
+dent-next-frontend/.next/
+dent-next-frontend/node_modules/
+node_modules/
+*.log
